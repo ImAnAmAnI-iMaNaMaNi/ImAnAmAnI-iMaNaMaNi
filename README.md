@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm a PhD Student. 😕
+### I’m currently learning COMSOL MULTIPHYSICS, Python, and MATLAB. 😄
 
 <!--
 **ImAnAmAnI-iMaNaMaNi/ImAnAmAnI-iMaNaMaNi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
