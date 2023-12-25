@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a PhD Student. 😕
+
 ### I’m currently learning COMSOL MULTIPHYSICS, Python, and MATLAB. 😄
 
 <!--
